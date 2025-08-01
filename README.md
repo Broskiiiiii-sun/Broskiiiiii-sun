@@ -7,10 +7,10 @@ I’m an aspiring cybersecurity specialist.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, C++, JavaScript, C#
+- 🌱 I’m currently learning Python, C++, JavaScript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with getting better at programming
-- 💬 Ask me about Things that could help improve the security in the cyber space
+- 💬 Ask me about Things that could help improve the security in the cyberworld
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I find Mathemathics intriguing
